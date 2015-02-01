@@ -1,4 +1,4 @@
-# ThePiggyGame
+# The Piggy Game
 A psychological experiment
 
 ## How to play
